@@ -1,0 +1,6 @@
+Nom d'équipe: enVRAC
+Nom du jeu: MineWar
+
+Membres de l'équipe:
+Amaury Colman
+Raphaël Vuaillat
